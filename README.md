@@ -10,16 +10,16 @@ This repository provides a privacy-conscious, step-by-step process for creating 
 ## How It Works
 
 1. **Read the Introduction**  
-   Start with `intro.md` to understand what a WRE is and why it matters.
+   Start with the Introduction file to understand what a WRE is and why it matters.
 
 2. **Create Your WRE**  
-   Use the `WRE-Builder.md` script. Paste it into your preferred AI tool and answer the questions. For many, you can reply `default` to accept a recommended answer. For background or public links, provide your own input or skip.
+   Use the WRE Builder script. Paste it into your preferred AI tool and answer the questions. For many, you can reply `default` to accept a recommended answer. For background or public links, provide your own input or skip.
 
 3. **Use Your WRE with AI Tools**  
    Paste your completed WRE into any AI tool to help it adapt to your style and needs.
 
 4. **Generate a User Manual (Optional)**  
-   If you want to introduce yourself to colleagues or new contacts, use the `user-manual-prompt.md`. Paste your WRE and the prompt into an AI tool to generate a friendly, shareable summary of your working style.
+   If you want to introduce yourself to colleagues or new contacts, use the User Manual prompt. Paste your WRE and the prompt into an AI tool to generate a friendly, shareable summary of your working style.
 
 ## Privacy & Safety
 
