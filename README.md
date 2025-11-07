@@ -26,6 +26,7 @@ This repository provides a privacy-conscious, step-by-step process for creating 
 - Your WRE is for your use and the AI tool(s) of your choosing only.
 - Never include confidential, sensitive, or private information.
 - If you wish to reference your work or identity, use public links or descriptions only.
+- Unlike settings in various AI tools, a WRE is non-persistent between interactions. Check with your preferred tool to determine how each interaction handles data security and privacy.
 
 
 
