@@ -28,7 +28,6 @@ A Working Relationship Expectations (WRE) document is designed to help you engag
 ### 1. Purpose & Context
 
 - What is your current job title or main area of responsibility? (Do not include your full legal name or private identifiers.)
-  - **Default:** “To help me engage efficiently and effectively with AI tools, ensuring responses match my learning and communication style.”
 - What do you want your WRE to help you achieve when working with AI tools? (e.g., faster onboarding, clearer communication, more relevant suggestions)
   - **Default:** “To help me engage efficiently and effectively with AI tools, ensuring responses match my learning and communication style.”
 - Who will use this WRE? (e.g., only you and AI tools—do not include information you wouldn’t want shared with an AI assistant)
